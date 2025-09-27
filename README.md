@@ -328,15 +328,15 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 - **Documentación**: [Wiki del proyecto](https://github.com/tu-usuario/go-secret-sender/wiki)
 - **Issues**: [GitHub Issues](https://github.com/tu-usuario/go-secret-sender/issues)
 - **Discusiones**: [GitHub Discussions](https://github.com/tu-usuario/go-secret-sender/discussions)
-- **Email**: security@tu-dominio.com
+- **Email**: lucaspintos909@gmail.com
 
 ## 🔄 Roadmap
 
 ### v1.0.0 (Actual)
-- [x] API REST básica
-- [x] Autenticación OAuth con Google
-- [x] Encriptación de secretos
-- [x] Notificaciones por email
+- [ ] API REST básica
+- [ ] Autenticación OAuth con Google
+- [ ] Encriptación de secretos
+- [ ] Notificaciones por email
 
 ### v1.1.0 (Próximo)
 - [ ] Interfaz web
