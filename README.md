@@ -2,7 +2,7 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.25-blue.svg)](https://golang.org/)
 [![Gin Framework](https://img.shields.io/badge/Gin-v1.9-blue.svg)](https://gin-gonic.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Security](https://img.shields.io/badge/Security-First-red.svg)](#security)
 
 Una API REST segura para el envío y gestión de datos sensibles (credenciales, tokens, certificados) con enfoque en seguridad, auditoría y compliance GDPR.
@@ -341,7 +341,7 @@ go tool cover -html=coverage.out
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia Pública General de GNU v3.0. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 🆘 Soporte
 
@@ -349,7 +349,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 - **Issues**: [GitHub Issues](https://github.com/tu-usuario/go-secret-sender/issues)
 - **Discusiones**: [GitHub Discussions](https://github.com/tu-usuario/go-secret-sender/discussions)
 - **Email**: lucaspintos909@gmail.com
-
 
 ---
 
