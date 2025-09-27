@@ -7,6 +7,26 @@
 
 Una API REST segura para el envío y gestión de datos sensibles (credenciales, tokens, certificados) con enfoque en seguridad, auditoría y compliance GDPR.
 
+## 🔄 Roadmap
+
+### v1.0.0 (En Desarrollo)
+- [ ] API REST básica
+- [ ] Autenticación OAuth con Google
+- [ ] Encriptación de secretos
+- [ ] Notificaciones por email
+
+### v1.1.0 (Próximo)
+- [ ] Interfaz web
+- [ ] API de webhooks
+- [ ] Integración con más proveedores OAuth
+- [ ] Dashboard de administración
+
+### v2.0.0 (Futuro)
+- [ ] Aplicación móvil
+- [ ] Integración con sistemas de gestión de secretos empresariales
+- [ ] Soporte para secretos de equipo
+- [ ] API GraphQL
+
 ## 🚀 Características Principales
 
 ### Seguridad
@@ -330,25 +350,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 - **Discusiones**: [GitHub Discussions](https://github.com/tu-usuario/go-secret-sender/discussions)
 - **Email**: lucaspintos909@gmail.com
 
-## 🔄 Roadmap
-
-### v1.0.0 (Actual)
-- [ ] API REST básica
-- [ ] Autenticación OAuth con Google
-- [ ] Encriptación de secretos
-- [ ] Notificaciones por email
-
-### v1.1.0 (Próximo)
-- [ ] Interfaz web
-- [ ] API de webhooks
-- [ ] Integración con más proveedores OAuth
-- [ ] Dashboard de administración
-
-### v2.0.0 (Futuro)
-- [ ] Aplicación móvil
-- [ ] Integración con sistemas de gestión de secretos empresariales
-- [ ] Soporte para secretos de equipo
-- [ ] API GraphQL
 
 ---
 
